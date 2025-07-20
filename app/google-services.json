@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683543743646",
+    "project_id": "geekr-2cdc5",
+    "storage_bucket": "geekr-2cdc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683543743646:android:83ed1c49e2dfdb8836ff8f",
+        "android_client_info": {
+          "package_name": "com.example.geekr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjb0Ju4LseM4q1JzUH9BunXQzCFMhDY7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
